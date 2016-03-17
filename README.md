@@ -21,4 +21,6 @@ Code base on [*caffe*](http://caffe.berkeleyvision.org/)
 
 *** 
 
-Mail: [zhaok.shu AT gmail](#) Page: <http://zhaok.xyz>
+Mail: zeakey@outlook.com 
+
+Homepage: <http://zhaok.xyz>
