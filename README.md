@@ -7,7 +7,9 @@ code for our [CVPR2016](http://cvpr2016.thecvf.com/) paper "*Object Skeleton Ext
 ####Requirement:
 **For test:**
 * [our pretrained model on SK506 dataset](http://7xocv2.dl1.z0.glb.clouddn.com/sk506_it14k.caffemodel)
-  or
+
+or
+
 * [our pretrained model on Horse dataset](http://7xocv2.dl1.z0.glb.clouddn.com/horse_it14k.caffemodel)
 
 **For train:**
