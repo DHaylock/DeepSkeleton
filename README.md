@@ -1,7 +1,7 @@
 ###DeepSkeleton
 object skeleton extraction in a nature image.
 
-code for our [CVPR2016](http://cvpr2016.thecvf.com/) paper "*Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs*"
+code for our [CVPR2016](http://cvpr2016.thecvf.com/) paper "**Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**". [[Arxiv]](http://arxiv.org/abs/1603.09446)
 
 ![](http://7xn7wz.com1.z0.glb.clouddn.com/DeepSkeleton.png?imageView2/2/w/500)
 ####Requirement:
