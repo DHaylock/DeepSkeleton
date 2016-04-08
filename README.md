@@ -7,8 +7,8 @@ code for our [CVPR2016](http://cvpr2016.thecvf.com/) paper "*Object Skeleton Ext
 ####Requirement:
 **For test:**
 * [our pretrained model on SK506 dataset](http://7xocv2.dl1.z0.glb.clouddn.com/sk506_it14k.caffemodel)
-
-or
+    
+  or
 
 * [our pretrained model on Horse dataset](http://7xocv2.dl1.z0.glb.clouddn.com/horse_it14k.caffemodel)
 
@@ -17,7 +17,7 @@ or
 
 * Our new dataset [*SK506*](http://7xocv2.dl1.z0.glb.clouddn.com/sk506.tar.gz)
 
-More technical details pls refer to our paper *Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs*
+More technical details pls refer to our [paper](http://arxiv.org/abs/1603.09446)
 
 Code base on [*caffe*](http://caffe.berkeleyvision.org/)
 
